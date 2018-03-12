@@ -380,7 +380,7 @@ uiexperiencescanner -t <tenant> -u <user> -p <password>
 A real life sample:
 
 ```console
-uiexperiencescanner -t contoso -c admin@contoso.onmicrosoft.com -p mypassword
+uiexperiencescanner -t contoso -u admin@contoso.onmicrosoft.com -p mypassword
 ```
 
 ## I only want to scan a few sites, can I do that? ##
